@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HappyHammie
 - 👀 I’m interested in Making Stuff
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Gaes
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me Twitter: @CakesTrash
 
 <!---
