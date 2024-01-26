@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamzito
+- 👋 Hi, I’m @Hamza
 - 👀 I’m interested in Making Stuff
 - 🌱 I’m currently learning Python, C# and HTML
 - 💞️ I’m looking to collaborate on Games and Other projects
